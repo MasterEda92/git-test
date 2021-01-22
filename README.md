@@ -2,10 +2,6 @@
 
 This is the first file in this repo.
 
-##Ipsum Below
+##Website Contents
 
-Text Bla Blub
-asdf
-1235123
-
-Text asdfasdf
+1. index.html
